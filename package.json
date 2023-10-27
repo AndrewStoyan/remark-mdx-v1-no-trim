@@ -39,7 +39,9 @@
     "@babel/plugin-syntax-jsx": "7.12.1",
     "@mdx-js/util": "1.6.22",
     "is-alphabetical": "1.0.4",
-    "remark-parse": "npm:remark-parse-no-trim@^8.0.0",
     "unified": "9.2.0"
+  },
+  "devDependencies": {
+    "remark-parse": "^8.0.3"
   }
 }
